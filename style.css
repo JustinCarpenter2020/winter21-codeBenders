@@ -1,0 +1,20 @@
+.col-6{
+  height: 40vh;
+}
+
+.bender-img{
+  height: 10vh;
+}
+
+.bg-img{
+  background-image: url('https://wp.stanforddaily.com/wp-content/uploads/2020/08/avatar_wikicommons.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.text-shadow{
+  text-shadow: 2px 2px black;
+  opacity: 0.75;
+  background-color: black;
+}
